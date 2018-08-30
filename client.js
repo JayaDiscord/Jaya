@@ -41,7 +41,7 @@ client.on('ready', async () => { // Triggered when the client is online
   
 console.log(client.user.tag); // Logs the tag of the bot in the console
 client.user.setStatus('online'); // Sets the bot's status as 'online'
-client.user.setActivity('jayadiscord.weebly.com', {type: 'LISTENING'}); // Sets the bot's activity as 'listening to jayadiscord.weebly.com'
+client.user.setActivity('github.com/JayaDiscord/Jaya', {type: 'LISTENING'}); // Sets the bot's activity as 'github.com/JayaDiscord/Jaya'
 
 });
 
